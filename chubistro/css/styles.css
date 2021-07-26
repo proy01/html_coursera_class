@@ -67,7 +67,7 @@ h2.flex-fill {
 }
 
 @media (min-width: 1199px) {
-	div.card {
+	div.card.menu-cat {
 		height: 200px;
 		overflow: hidden;
 	}
